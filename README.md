@@ -76,7 +76,7 @@ Install required system dependencies:
 
 Clone the repository:
 
-    git clone https://github.com/YOUR_USERNAME/BlueScout-Pro.git
+    git clone https://github.com/ahirankush771/BlueScout-Pro.git
 
 Go to project folder:
 
